@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Ivan Ivanov",
+        "age": 20,
+        "email": "example@mail.ru"
+    },
+    {
+        "name": "Petr Petrov",
+        "age": 30,
+        "email": "example34@mail.ru"
+    },
+    {
+        "name": "Dmitry Belov",
+        "age": 40,
+        "email": "example43@mail.ru"
+    }
+]
